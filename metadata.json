@@ -1,0 +1,7 @@
+{
+  "name": "VTU Academic Designer",
+  "description": "Professional tool for academic document design review, specializing in transforming AI-generated notes into serious VTU exam preparation materials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
